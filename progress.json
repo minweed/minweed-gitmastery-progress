@@ -131,5 +131,14 @@
       "not enough values to unpack (expected 2, got 1)"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786507644.521336,
+    "completed_at": 1786507724.234314,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks exercise_utils/__init__.py\n  stderr: 'fatal: unable to access 'https://github.com/git-mastery/exercises.git/': Failed to connect to github.com port 443 after 75003 ms: Couldn't connect to server\nfatal: could not fetch 3a2ac6749d04324755e3d69ec9ecf3d8a5aa7664 from promisor remote'"
+    ],
+    "status": "Error"
   }
 ]
