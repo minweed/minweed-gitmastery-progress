@@ -122,5 +122,14 @@
       "not enough values to unpack (expected 2, got 1)"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786507515.440112,
+    "completed_at": 1786507524.100096,
+    "comments": [
+      "not enough values to unpack (expected 2, got 1)"
+    ],
+    "status": "Error"
   }
 ]
